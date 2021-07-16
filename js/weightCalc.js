@@ -1,6 +1,4 @@
 const weight = document.querySelectorAll(".input-weight");
-let lbs = document.getElementById('pound');
-console.log(lbs)
 
 weight.forEach(x => {
   x.addEventListener('input', convertMetric)
