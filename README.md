@@ -1,2 +1,2 @@
-# recipe-conversion
-Converting common recipe measurements
+# Recipe-Conversion
+Convert common recipe measurements.
